@@ -1,6 +1,6 @@
 # Implementation  CVPR 2019 paper Distilling Object Detectors with Fine-grained Feature Imitation in yolov5
 
-![](.\intuition.PNG)
+![](intuition.PNG)
 
 ## Distilling Yolov5
 ### Preparation
@@ -17,7 +17,7 @@ git clone https://github.com/xing-bing/yolov5-distilling
 
 #### 3 Data preparation
 
-![](.\dataset.png)
+![](dataset.png)
 
 
 ### Train
@@ -25,7 +25,7 @@ git clone https://github.com/xing-bing/yolov5-distilling
 python train_distill.py
 ```
 
-​		![](.\train.png)
+​		![](train.png)
 
 ## Author: xingbing
 
